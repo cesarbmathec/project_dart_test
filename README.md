@@ -111,3 +111,9 @@ A footnote can also have multiple lines[^2].
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+### Tablas
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
