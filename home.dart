@@ -1,5 +1,6 @@
 abstract class Home {
-  String name;
+  String _name;
 
-  Home(this.name);
+  Home(this._name);
+  String get name => _name;
 }
